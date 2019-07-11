@@ -15,6 +15,11 @@ npm run serve
      - 📄en.js      英文字体库
      - 📄fa.js       法语字体库
      - 📄ft.js       中文繁体字体库
+    - img 
+     - cn.png       中文预览效果图
+     - en.png       英文预览效果图
+     - fa.png       法语预览效果图
+     - ft.png        中文繁体预览效果图
   - 📁components  组件
     - 📄vue-international-i18n.vue      展示切换语言组件
   - 📄App.vue 入口模版
@@ -215,6 +220,13 @@ export default {
 <!-- {{}} 形式 -->
 <div>{{$t('m.music')}}</div>
 ```
+
+### 效果预览
+
+![中文](https://raw.githubusercontent.com/libing-cheer/vue-international-i18n/master/src/assets/img/cn.png)
+![英文](https://raw.githubusercontent.com/libing-cheer/vue-international-i18n/master/src/assets/img/en.png)
+![法语](https://raw.githubusercontent.com/libing-cheer/vue-international-i18n/master/src/assets/img/fa.png)
+![中文繁体](https://raw.githubusercontent.com/libing-cheer/vue-international-i18n/master/src/assets/img/ft.png)
 
 
 
