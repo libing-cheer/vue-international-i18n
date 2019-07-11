@@ -29,7 +29,6 @@
 </template>
 
 <script>
-import { Message } from "element-ui";
 export default {
   name: "vueInternationalI18n",
   data() {
