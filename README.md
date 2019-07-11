@@ -138,7 +138,6 @@ changeLangEvent事件实现语言切换；重点在于"关键语句"：this.$i18
 </template>
 
 <script>
-import { Message } from "element-ui";
 export default {
   name: "vueInternationalI18n",
   data() {
