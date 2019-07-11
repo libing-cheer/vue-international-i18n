@@ -229,7 +229,7 @@ export default {
 ![中文繁体](https://raw.githubusercontent.com/libing-cheer/vue-international-i18n/master/src/assets/img/ft.png)
 
 ### vue-i18n 了解更多
-若想了解更多关于 vue-i18n 的使用，请前往 [vue-i18官网](https://kazupon.github.io/vue-i18n/zh/introduction.html)
+若想了解更多关于 vue-i18n 的使用，请前往 [vue-i18n 官网](https://kazupon.github.io/vue-i18n/zh/introduction.html)
 
 
 
